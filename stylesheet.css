@@ -1,0 +1,21 @@
+.title {
+color: #02ccba;
+}
+
+.header-logo{
+  font-size: 80px;
+  text-align:center;
+  background-color: #81F7D8;
+}
+
+.photo{
+  text-align:center;
+}
+img{
+  height: 200px;
+  width:200px;
+}
+.copy{
+
+  font-size: 23px;
+}

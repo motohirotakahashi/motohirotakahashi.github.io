@@ -11,6 +11,34 @@ color: #02ccba;
 .photo{
   text-align:center;
 }
+
+.box1{
+    display:inline-block;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    background: #6091d3;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.box2{
+   display: inline-block;
+    margin: 2em 0;
+    background: #dcefff;
+}
+.box2 .box2_title{
+    font-size: 1.2em;
+    background: #5fb3f5;
+    padding: 4px;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box2 p{
+    padding: 15px 20px;
+    margin: 0;
+}
+
 img{
   height: 200px;
   width:200px;
